@@ -39,7 +39,7 @@ st.title('Stock Forecast App')
 
 # List of major Nasdaq stocks
 stocks = (
-    'GEPIL.NS','AAPL', 'MSFT', 'GOOGL', 'GOOG', 'AMZN', 'TSLA', 'META', 'NVDA', 'PYPL', 'CMCSA',
+    'GEPIL.NS','HDFCBANK.NS','AAPL', 'MSFT', 'GOOGL', 'GOOG', 'AMZN', 'TSLA', 'META', 'NVDA', 'PYPL', 'CMCSA',
     'PEP', 'ADBE', 'NFLX', 'INTC', 'CSCO', 'AVGO', 'TXN', 'QCOM', 'COST', 'HON', 
     'AMGN', 'SBUX', 'AMD', 'ISRG', 'BKNG', 'MDLZ', 'ADI', 'MU', 'LRCX', 'GILD',
     'KHC', 'WDAY', 'BIDU', 'DOCU', 'ZM', 'PDD', 'MELI', 'ABNB', 'CRWD', 'DDOG'
