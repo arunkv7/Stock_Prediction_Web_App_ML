@@ -41,7 +41,8 @@ st.title('Stock Forecast App')
 stocks = (
     'GEPIL.NS','HDFCBANK.NS','MAWANASUG.NS', 'ASHOKLEY.NS', 'BAJAJCON.NS', 'BANKINDIA.NS', 
     'MUTHOOTMF.NS', 'BCG.NS', 'XCHANGING.NS', 'ROHLTD.NS', 'JAYAGROGN.NS', 'CENTRALBK.NS',
-    'PEL.NS', 'PCBL.NS', 'NFLX', 'INTC', 'CSCO', 'AVGO', 'TXN', 'QCOM', 'COST', 'HON', 
+    'PEL.NS', 'PCBL.NS', 'TVTODAY.NS', 'DABUR.NS', 'HINDUNILVR.NS', 'ITC.NS', 'ABFRL.NS', 
+    'DEN.NS', 'MANAPPURAM.NS', 'KRBL.NS', 
     'AMGN', 'SBUX', 'AMD', 'ISRG', 'BKNG', 'MDLZ', 'ADI', 'MU', 'LRCX', 'GILD',
     'KHC', 'WDAY', 'BIDU', 'DOCU', 'ZM', 'PDD', 'MELI', 'ABNB', 'CRWD', 'DDOG'
 )
