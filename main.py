@@ -39,8 +39,9 @@ st.title('Stock Forecast App')
 
 # List of major Nasdaq stocks
 stocks = (
-    'GEPIL.NS','HDFCBANK.NS','MAWANASUG.NS', 'ASHOKLEY.NS', 'BAJAJCON.NS', 'BANKINDIA.NS', 'MUTHOOTMF.NS', 'BCG.NS', 'XCHANGING.NS', 'ROHLTD.NS', 'JAYAGROGN.NS', 'CMCSA',
-    'PEP', 'ADBE', 'NFLX', 'INTC', 'CSCO', 'AVGO', 'TXN', 'QCOM', 'COST', 'HON', 
+    'GEPIL.NS','HDFCBANK.NS','MAWANASUG.NS', 'ASHOKLEY.NS', 'BAJAJCON.NS', 'BANKINDIA.NS', 
+    'MUTHOOTMF.NS', 'BCG.NS', 'XCHANGING.NS', 'ROHLTD.NS', 'JAYAGROGN.NS', 'CENTRALBK.NS',
+    'PEL.NS', 'PCBL.NS', 'NFLX', 'INTC', 'CSCO', 'AVGO', 'TXN', 'QCOM', 'COST', 'HON', 
     'AMGN', 'SBUX', 'AMD', 'ISRG', 'BKNG', 'MDLZ', 'ADI', 'MU', 'LRCX', 'GILD',
     'KHC', 'WDAY', 'BIDU', 'DOCU', 'ZM', 'PDD', 'MELI', 'ABNB', 'CRWD', 'DDOG'
 )
