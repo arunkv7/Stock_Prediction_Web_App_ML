@@ -42,9 +42,9 @@ stocks = (
     'GEPIL.NS','HDFCBANK.NS','MAWANASUG.NS', 'ASHOKLEY.NS', 'BAJAJCON.NS', 'BANKINDIA.NS', 
     'MUTHOOTMF.NS', 'BCG.NS', 'XCHANGING.NS', 'ROHLTD.NS', 'JAYAGROGN.NS', 'CENTRALBK.NS',
     'PEL.NS', 'PCBL.NS', 'TVTODAY.NS', 'DABUR.NS', 'HINDUNILVR.NS', 'ITC.NS', 'ABFRL.NS', 
-    'DEN.NS', 'MANAPPURAM.NS', 'KRBL.NS', 
-    'AMGN', 'SBUX', 'AMD', 'ISRG', 'BKNG', 'MDLZ', 'ADI', 'MU', 'LRCX', 'GILD',
-    'KHC', 'WDAY', 'BIDU', 'DOCU', 'ZM', 'PDD', 'MELI', 'ABNB', 'CRWD', 'DDOG'
+    'DEN.NS', 'MANAPPURAM.NS', 'KRBL.NS', 'INDIGRID.BO', 'SADBHAV.NS', 'BAJAJHIND.NS', 
+    'CYBERTECH.NS', 'EDELWEISS.NS', 'L&TFH.NS', 'MOLDTECH.NS', 'MUFTI.NS', 'PARKHOTELS.BO', 'PAYTM.NS',
+    'ROHLTD.NS', 'WDAY', 'BIDU', 'DOCU', 'ZM', 'PDD', 'MELI', 'ABNB', 'CRWD', 'DDOG'
 )
 selected_stock = st.selectbox('Select dataset for prediction', stocks)
 
